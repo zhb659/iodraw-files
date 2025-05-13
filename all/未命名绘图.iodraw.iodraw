@@ -43,7 +43,7 @@
         <mxCell id="g1W0Y2a-X3aBiurcTFXn-19" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;WiFi连接&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="311.5" y="371" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g1W0Y2a-X3aBiurcTFXn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g1W0Y2a-X3aBiurcTFXn-21">
+        <mxCell id="g1W0Y2a-X3aBiurcTFXn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g1W0Y2a-X3aBiurcTFXn-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="458" y="394" as="targetPoint" />
           </mxGeometry>
@@ -55,9 +55,6 @@
         </mxCell>
         <mxCell id="g1W0Y2a-X3aBiurcTFXn-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;是否联网&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="305.5" y="459" width="132" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="g1W0Y2a-X3aBiurcTFXn-30" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="448" y="417" width="42" height="41" as="geometry" />
         </mxCell>
         <mxCell id="g1W0Y2a-X3aBiurcTFXn-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g1W0Y2a-X3aBiurcTFXn-34" target="g1W0Y2a-X3aBiurcTFXn-36">
           <mxGeometry relative="1" as="geometry" />
@@ -103,6 +100,15 @@
         </mxCell>
         <mxCell id="g1W0Y2a-X3aBiurcTFXn-58" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;判断系统模式&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="281.75" y="763" width="179.5" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="g1W0Y2a-X3aBiurcTFXn-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g1W0Y2a-X3aBiurcTFXn-21" target="g1W0Y2a-X3aBiurcTFXn-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="438" y="497" as="sourcePoint" />
+            <mxPoint x="458" y="394" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1W0Y2a-X3aBiurcTFXn-30" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="449" y="413" width="42" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
