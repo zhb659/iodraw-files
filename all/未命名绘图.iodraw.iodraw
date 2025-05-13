@@ -292,7 +292,7 @@
         <mxCell id="f6q9SjJ5mSJfezzBirV_-24" value="电源模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="422" y="384" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f6q9SjJ5mSJfezzBirV_-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f6q9SjJ5mSJfezzBirV_-26" value="显示模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="522" y="31" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
