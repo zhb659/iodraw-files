@@ -105,6 +105,9 @@
         <mxCell id="g1W0Y2a-X3aBiurcTFXn-70" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="438" y="355" width="50" height="142" as="geometry" />
         </mxCell>
+        <mxCell id="g1W0Y2a-X3aBiurcTFXn-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g1W0Y2a-X3aBiurcTFXn-75" target="g1W0Y2a-X3aBiurcTFXn-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g1W0Y2a-X3aBiurcTFXn-75" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;接受APP继电器状态信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="494" y="848" width="151" height="84" as="geometry" />
         </mxCell>
