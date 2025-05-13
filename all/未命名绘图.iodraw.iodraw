@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g1W0Y2a-X3aBiurcTFXn-36" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;系统上传数据至云平台&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="464" y="659" width="120" height="86" as="geometry" />
+          <mxGeometry x="482.5" y="659" width="120" height="86" as="geometry" />
         </mxCell>
         <mxCell id="g1W0Y2a-X3aBiurcTFXn-41" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;OLED界面数据刷新&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="305.5" y="677" width="120" height="60" as="geometry" />
