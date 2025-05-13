@@ -243,9 +243,6 @@
         <mxCell id="f6q9SjJ5mSJfezzBirV_-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="657" y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f6q9SjJ5mSJfezzBirV_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="f6q9SjJ5mSJfezzBirV_-10" target="f6q9SjJ5mSJfezzBirV_-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="f6q9SjJ5mSJfezzBirV_-10" value="自动调节亮度模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="198" y="64" width="120" height="60" as="geometry" />
         </mxCell>
