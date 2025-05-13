@@ -244,7 +244,7 @@
         <mxCell id="f6q9SjJ5mSJfezzBirV_-3" value="STM32F103C8T6" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="429" y="169" width="101" height="158" as="geometry" />
         </mxCell>
-        <mxCell id="f6q9SjJ5mSJfezzBirV_-4" value="红外检测模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f6q9SjJ5mSJfezzBirV_-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;红外检测模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="198" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f6q9SjJ5mSJfezzBirV_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;elbow=vertical;" edge="1" parent="1" source="f6q9SjJ5mSJfezzBirV_-5">
@@ -252,7 +252,7 @@
             <mxPoint x="68.32000732421875" y="282.5199890136719" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f6q9SjJ5mSJfezzBirV_-5" value="调节色温模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f6q9SjJ5mSJfezzBirV_-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;调节色温模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="198" y="298" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f6q9SjJ5mSJfezzBirV_-6" value="LED照明模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -278,7 +278,7 @@
         <mxCell id="f6q9SjJ5mSJfezzBirV_-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;elbow=vertical;" edge="1" parent="1" source="f6q9SjJ5mSJfezzBirV_-10" target="f6q9SjJ5mSJfezzBirV_-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f6q9SjJ5mSJfezzBirV_-10" value="自动调节亮度模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f6q9SjJ5mSJfezzBirV_-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;自动调节亮度模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="198" y="64" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f6q9SjJ5mSJfezzBirV_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.107;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" edge="1" parent="1" source="f6q9SjJ5mSJfezzBirV_-4" target="f6q9SjJ5mSJfezzBirV_-3">
