@@ -261,11 +261,6 @@
         <mxCell id="f6q9SjJ5mSJfezzBirV_-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;APP显示&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="657" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f6q9SjJ5mSJfezzBirV_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="f6q9SjJ5mSJfezzBirV_-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="532.9599609375" y="263" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="f6q9SjJ5mSJfezzBirV_-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;定时模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="233" width="120" height="60" as="geometry" />
         </mxCell>
@@ -294,6 +289,9 @@
         </mxCell>
         <mxCell id="f6q9SjJ5mSJfezzBirV_-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;显示模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="522" y="31" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f6q9SjJ5mSJfezzBirV_-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.595;entryY=0.051;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" edge="1" parent="1" source="f6q9SjJ5mSJfezzBirV_-8" target="f6q9SjJ5mSJfezzBirV_-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
