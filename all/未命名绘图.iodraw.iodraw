@@ -45,7 +45,7 @@
         </mxCell>
         <mxCell id="g1W0Y2a-X3aBiurcTFXn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g1W0Y2a-X3aBiurcTFXn-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="458" y="394" as="targetPoint" />
+            <mxPoint x="458" y="401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="g1W0Y2a-X3aBiurcTFXn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g1W0Y2a-X3aBiurcTFXn-21">
@@ -55,6 +55,11 @@
         </mxCell>
         <mxCell id="g1W0Y2a-X3aBiurcTFXn-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;是否联网&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="305.5" y="459" width="132" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="g1W0Y2a-X3aBiurcTFXn-64" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g1W0Y2a-X3aBiurcTFXn-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="469" y="401.5200073242188" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="g1W0Y2a-X3aBiurcTFXn-30" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="448" y="417" width="42" height="41" as="geometry" />
@@ -103,13 +108,6 @@
         </mxCell>
         <mxCell id="g1W0Y2a-X3aBiurcTFXn-58" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;判断系统模式&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="282" y="776" width="179.5" height="107" as="geometry" />
-        </mxCell>
-        <mxCell id="g1W0Y2a-X3aBiurcTFXn-63" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;elbow=vertical;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="310" y="472" as="sourcePoint" />
-            <mxPoint x="390" y="472" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
