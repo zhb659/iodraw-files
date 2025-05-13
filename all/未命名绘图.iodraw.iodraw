@@ -91,6 +91,9 @@
         <mxCell id="g1W0Y2a-X3aBiurcTFXn-55" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;系统模式设置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="677" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="g1W0Y2a-X3aBiurcTFXn-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g1W0Y2a-X3aBiurcTFXn-58" target="g1W0Y2a-X3aBiurcTFXn-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g1W0Y2a-X3aBiurcTFXn-58" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;判断系统模式&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280.75" y="754" width="179.5" height="107" as="geometry" />
         </mxCell>
