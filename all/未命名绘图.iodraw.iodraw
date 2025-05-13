@@ -186,6 +186,9 @@
         <mxCell id="iYVniGfqZgj_CnsbW1Om-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="iYVniGfqZgj_CnsbW1Om-1" target="iYVniGfqZgj_CnsbW1Om-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iYVniGfqZgj_CnsbW1Om-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="iYVniGfqZgj_CnsbW1Om-1" target="iYVniGfqZgj_CnsbW1Om-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iYVniGfqZgj_CnsbW1Om-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;是否连接WiFi&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="179" width="178" height="108" as="geometry" />
         </mxCell>
@@ -196,7 +199,7 @@
           <mxGeometry x="274" y="293" width="42" height="41" as="geometry" />
         </mxCell>
         <mxCell id="iYVniGfqZgj_CnsbW1Om-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="303" y="261" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="348.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
