@@ -157,8 +157,8 @@
         <mxCell id="g1W0Y2a-X3aBiurcTFXn-98" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="305.5" y="948" width="42" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="j6Lu5XBOOdwU_BzwFF-i-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="667" y="565" width="120" height="60" as="geometry" />
+        <mxCell id="j6Lu5XBOOdwU_BzwFF-i-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;红外模块监测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="567" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
