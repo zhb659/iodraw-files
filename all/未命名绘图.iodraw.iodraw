@@ -225,7 +225,7 @@
         <mxCell id="f6q9SjJ5mSJfezzBirV_-3" value="STM32F103C8T6" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="425" y="169" width="101" height="158" as="geometry" />
         </mxCell>
-        <mxCell id="f6q9SjJ5mSJfezzBirV_-4" value="自动调节亮度模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f6q9SjJ5mSJfezzBirV_-4" value="红外检测模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="198" y="179" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f6q9SjJ5mSJfezzBirV_-5" value="调节色温模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
