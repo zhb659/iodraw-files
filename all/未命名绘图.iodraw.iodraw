@@ -182,7 +182,7 @@
             <mxPoint x="274" y="178.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XNfPmYOkfcKEAgYGfgwI-2" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;模块初始化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XNfPmYOkfcKEAgYGfgwI-2" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&amp;nbsp; 获取语音指令&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="214" y="84" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iYVniGfqZgj_CnsbW1Om-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="iYVniGfqZgj_CnsbW1Om-3" target="iYVniGfqZgj_CnsbW1Om-10">
