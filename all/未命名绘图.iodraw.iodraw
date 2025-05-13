@@ -82,7 +82,7 @@
             <mxPoint x="-2" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g1W0Y2a-X3aBiurcTFXn-47" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;是否有按键按下&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="g1W0Y2a-X3aBiurcTFXn-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;是否有按键按下&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="307" y="567" width="130" height="94" as="geometry" />
         </mxCell>
       </root>
