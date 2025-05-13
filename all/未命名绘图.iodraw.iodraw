@@ -279,8 +279,13 @@
         <mxCell id="f6q9SjJ5mSJfezzBirV_-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.107;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" edge="1" parent="1" source="f6q9SjJ5mSJfezzBirV_-4" target="f6q9SjJ5mSJfezzBirV_-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f6q9SjJ5mSJfezzBirV_-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="546" y="175" width="120" height="60" as="geometry" />
+        <mxCell id="f6q9SjJ5mSJfezzBirV_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="f6q9SjJ5mSJfezzBirV_-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="482" y="329.2400207519531" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f6q9SjJ5mSJfezzBirV_-24" value="电源模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422" y="384" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
