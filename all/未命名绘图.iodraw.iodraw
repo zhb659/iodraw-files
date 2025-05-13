@@ -189,7 +189,7 @@
         <mxCell id="iYVniGfqZgj_CnsbW1Om-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="iYVniGfqZgj_CnsbW1Om-1" target="iYVniGfqZgj_CnsbW1Om-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iYVniGfqZgj_CnsbW1Om-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;是否连接WiFi&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iYVniGfqZgj_CnsbW1Om-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;是否有人&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="179" width="178" height="108" as="geometry" />
         </mxCell>
         <mxCell id="iYVniGfqZgj_CnsbW1Om-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="iYVniGfqZgj_CnsbW1Om-3" target="iYVniGfqZgj_CnsbW1Om-10">
