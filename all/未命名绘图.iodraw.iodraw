@@ -110,7 +110,7 @@
             <mxPoint x="554.5454545454545" y="991.745450106534" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g1W0Y2a-X3aBiurcTFXn-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="g1W0Y2a-X3aBiurcTFXn-75" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;接受APP继电器状态信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="494" y="877" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g1W0Y2a-X3aBiurcTFXn-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
