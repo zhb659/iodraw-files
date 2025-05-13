@@ -231,7 +231,7 @@
         <mxCell id="f6q9SjJ5mSJfezzBirV_-5" value="调节色温模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="198" y="298" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f6q9SjJ5mSJfezzBirV_-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f6q9SjJ5mSJfezzBirV_-6" value="LED照明模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="11" y="218" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f6q9SjJ5mSJfezzBirV_-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
