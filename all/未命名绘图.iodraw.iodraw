@@ -163,6 +163,9 @@
         <mxCell id="j6Lu5XBOOdwU_BzwFF-i-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;红外模块检测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="567" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="DanqhZ1x0LdkDLOWKyWt-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="652" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
