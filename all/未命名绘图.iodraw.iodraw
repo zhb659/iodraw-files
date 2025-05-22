@@ -260,11 +260,6 @@
         <mxCell id="f6q9SjJ5mSJfezzBirV_-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;红外检测模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="198" y="215" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f6q9SjJ5mSJfezzBirV_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;elbow=vertical;" parent="1" source="f6q9SjJ5mSJfezzBirV_-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="68.32000732421875" y="282.5199890136719" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="f6q9SjJ5mSJfezzBirV_-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;调节色温模块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="198" y="298" width="120" height="60" as="geometry" />
         </mxCell>
