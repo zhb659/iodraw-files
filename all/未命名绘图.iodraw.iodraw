@@ -250,14 +250,14 @@
         <mxCell id="aKm7_ljfFBUliSh4kErJ-1" value="STM32F103C8T6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="52" width="120" height="356" as="geometry" />
         </mxCell>
-        <mxCell id="aKm7_ljfFBUliSh4kErJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aKm7_ljfFBUliSh4kErJ-2" value="光照强度检测模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aKm7_ljfFBUliSh4kErJ-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="219" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aKm7_ljfFBUliSh4kErJ-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="472" y="276" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="357" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
