@@ -247,6 +247,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aKm7_ljfFBUliSh4kErJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aKm7_ljfFBUliSh4kErJ-1" target="aKm7_ljfFBUliSh4kErJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aKm7_ljfFBUliSh4kErJ-1" value="STM32F103C8T6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="54" width="120" height="356" as="geometry" />
         </mxCell>
@@ -266,7 +269,7 @@
           <mxGeometry x="538" y="202" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aKm7_ljfFBUliSh4kErJ-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="538" y="325" width="120" height="60" as="geometry" />
+          <mxGeometry x="545" y="291" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
